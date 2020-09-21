@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.4.3 UNRELEASED]
+
+### Fixed
+
+- Merge sequence of consul config files #344
+
 ## [0.4.2]
 
 ### Changed
